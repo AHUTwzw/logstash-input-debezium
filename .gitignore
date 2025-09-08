@@ -3,7 +3,6 @@ bin
 *.idea
 *.iml
 lib/
-vendor/
 .bundle/
 build/
 out/
